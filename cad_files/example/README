@@ -1,0 +1,23 @@
+Example of application
+----------------------
+
+Growing oyster mushroom in cellar
+Cooperation with MM1A and MM2A analog controllers 
+
+Inputs:
+  in1:  (unused)
+  in2:  water pressure (closed: good)
+  in3:  growing hyphae/mushroom (closed: hyphae)
+  in4:  (unused)
+
+Error light:
+  err1: bad relative humidity
+  err2: bad water pressure
+  err3: (unused)
+  err4: bad temperature
+
+Outputs:
+  out1: humidifying (active in 5 s)
+  out2: lighting
+  out3: ventilation
+  out4: heating
