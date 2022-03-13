@@ -5,7 +5,7 @@ GitHub: <https://github.com/pozsarzs/mm3d-hw>
 
 **Documentation**
 
-- version:             5.0
+- version:             6.0
 - language:            en, hu
 - licence:             CC-BY-NC-4.0
 
